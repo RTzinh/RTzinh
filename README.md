@@ -6,6 +6,7 @@
 **Full-Stack Developer · Data & AI**
 
 ![Profile views](https://komarev.com/ghpvc/?username=RTzinh&color=blueviolet&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/RTzinh?style=social)](https://github.com/RTzinh?tab=followers)
 
 </div>
 
@@ -22,15 +23,6 @@ Full-stack developer focused on **data and AI**. I build everything from complet
 ### 🛠️ Tech Stack
 
 ![skills](https://skillicons.dev/icons?i=python,ts,js,react,fastapi,nodejs,php,mysql,docker,git,github,linux,vscode)
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RTzinh&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTzinh&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
 
 ### 📌 Featured Projects
 
