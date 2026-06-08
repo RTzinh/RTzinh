@@ -17,19 +17,19 @@
 
 ---
 
-<h3 align="center">🧑‍🚀 About me</h3>
+<h3 align="center">About me</h3>
 
 Full-stack developer focused on **data and AI**. I build everything from complete web apps to BI dashboards and automations that turn raw data into decisions.
 
-- 🔭 Working with **Python, data and applied AI**
-- 💼 Development Intern at **IEV – Inteligência em Vendas**
-- 🌱 Studying **Systems Analysis & Development**
-- 📊 One of my projects running live → **[Sales Analytics Dashboard](https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/)**
-- 📫 Reach me: **rtereciani5@gmail.com**
+- Working with **Python, data and applied AI**
+- Development Intern at **IEV – Inteligência em Vendas**
+- Studying **Systems Analysis & Development**
+- One of my projects running live → **[Sales Analytics Dashboard](https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/)**
+- Reach me: **rtereciani5@gmail.com**
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -39,7 +39,7 @@ Full-stack developer focused on **data and AI**. I build everything from complet
 
 ---
 
-<h3 align="center">📊 Statistics</h3>
+<h3 align="center">Statistics</h3>
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Full-stack developer focused on **data and AI**. I build everything from complet
 
 </div>
 
-<h3 align="center">📈 Contribution Graph</h3>
+<h3 align="center">Contribution Graph</h3>
 
 <div align="center">
 
@@ -57,9 +57,9 @@ Full-stack developer focused on **data and AI**. I build everything from complet
 
 ---
 
-<h3 align="center">📌 Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
-- 📊 **[Sales Analytics Dashboard](https://github.com/RTzinh/amazon_sales_analysis)** — AI-powered sales dashboard · Python · Streamlit · Gemini · **[live demo](https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/)**
-- 📈 **[Investe Bem Brasil](https://github.com/RTzinh/investe-bem-brasil)** — full-stack investment platform · React · FastAPI · Docker
-- 🛒 **[RetailRocket Top-N](https://github.com/RTzinh/retailrocket-topn)** — e-commerce recommendation engine · Python · Machine Learning
-- 🩺 **[MedIA](https://github.com/RTzinh/MedIATCC)** — multimodal clinical assistant with AI (capstone project) · Python · Streamlit
+- **[Sales Analytics Dashboard](https://github.com/RTzinh/amazon_sales_analysis)** — AI-powered sales dashboard · Python · Streamlit · Gemini · **[live demo](https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/)**
+- **[Investe Bem Brasil](https://github.com/RTzinh/investe-bem-brasil)** — full-stack investment platform · React · FastAPI · Docker
+- **[RetailRocket Top-N](https://github.com/RTzinh/retailrocket-topn)** — e-commerce recommendation engine · Python · Machine Learning
+- **[MedIA](https://github.com/RTzinh/MedIATCC)** — multimodal clinical assistant with AI (capstone project) · Python · Streamlit
