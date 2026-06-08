@@ -1,16 +1,23 @@
 <div align="center">
 
-<img src="assets/banner.gif" width="500" alt="banner"/>
+<img src="assets/banner.gif" width="100%" alt="banner"/>
+
+<a href="https://github.com/RTzinh"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=F2C94C&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub;Full-Stack+Developer;Data+%26+AI;Turning+data+into+decisions" alt="typing"/></a>
 
 # Ryan Tereciani
-**Full-Stack Developer · Data & AI**
 
-![Profile views](https://komarev.com/ghpvc/?username=RTzinh&color=blueviolet&style=flat)
+<a href="https://github.com/RTzinh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:rtereciani5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+
+![Profile views](https://komarev.com/ghpvc/?username=RTzinh&color=F2C94C&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/RTzinh?style=social)](https://github.com/RTzinh?tab=followers)
 
 </div>
 
-### 👋 About me
+---
+
+<h3 align="center">🧑‍🚀 About me</h3>
 
 Full-stack developer focused on **data and AI**. I build everything from complete web apps to BI dashboards and automations that turn raw data into decisions.
 
@@ -20,11 +27,37 @@ Full-stack developer focused on **data and AI**. I build everything from complet
 - 📊 One of my projects running live → **[Sales Analytics Dashboard](https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/)**
 - 📫 Reach me: **rtereciani5@gmail.com**
 
-### 🛠️ Tech Stack
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
 
 ![skills](https://skillicons.dev/icons?i=python,ts,js,react,fastapi,nodejs,php,mysql,docker,git,github,linux,vscode)
 
-### 📌 Featured Projects
+</div>
+
+---
+
+<h3 align="center">📊 Statistics</h3>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com/?user=RTzinh&theme=dark&hide_border=true&background=0D1117&ring=F2C94C&fire=F2C94C&currStreakLabel=F2C94C&sideLabels=F2C94C)
+
+</div>
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+<div align="center">
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RTzinh&bg_color=0d1117&color=f2c94c&line=f2c94c&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+---
+
+<h3 align="center">📌 Featured Projects</h3>
 
 - 📊 **[Sales Analytics Dashboard](https://github.com/RTzinh/amazon_sales_analysis)** — AI-powered sales dashboard · Python · Streamlit · Gemini · **[live demo](https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/)**
 - 📈 **[Investe Bem Brasil](https://github.com/RTzinh/investe-bem-brasil)** — full-stack investment platform · React · FastAPI · Docker
