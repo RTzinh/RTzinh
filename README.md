@@ -43,7 +43,7 @@ Full-stack developer focused on **data and AI**. I build everything from complet
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=RTzinh&theme=dark&hide_border=true&background=0D1117&ring=F2C94C&fire=F2C94C&currStreakLabel=F2C94C&sideLabels=F2C94C)
+![Streak](https://streak-stats.demolab.com/?user=RTzinh&theme=dark&hide_border=true&background=010409&ring=F2C94C&fire=F2C94C&currStreakLabel=F2C94C&sideLabels=F2C94C)
 
 </div>
 
@@ -51,7 +51,7 @@ Full-stack developer focused on **data and AI**. I build everything from complet
 
 <div align="center">
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RTzinh&bg_color=0d1117&color=f2c94c&line=f2c94c&point=ffffff&area=true&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=RTzinh&bg_color=010409&color=f2c94c&line=f2c94c&point=ffffff&area=true&hide_border=true)
 
 </div>
 
