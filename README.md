@@ -11,7 +11,7 @@
 
 <a href="https://github.com/RTzinh"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:rtereciani5@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-DA3633?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
+<a href="https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
 
 </div>
 
@@ -38,8 +38,6 @@ Full-stack developer focused on **data and AI** — I build web apps, BI dashboa
           <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/sales-analytics-light.svg" alt="Sales Analytics Dashboard"/>
         </picture>
       </a>
-      <br/>
-      <a href="https://amazonsalesanalysis-dhpqhakxwxwwh3o2tt3q4v.streamlit.app/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-DA3633?style=flat-square" alt="live demo"/></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/RTzinh/investe-bem-brasil">
@@ -76,13 +74,24 @@ Full-stack developer focused on **data and AI** — I build web apps, BI dashboa
 
 <div align="center">
 
-![LANGUAGES](https://img.shields.io/badge/LANGUAGES-DA3633?style=flat-square) ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square)
-
-![FRAMEWORKS](https://img.shields.io/badge/FRAMEWORKS-DA3633?style=flat-square) ![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=white)
-
-![DATA & AI](https://img.shields.io/badge/DATA_%26_AI-DA3633?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-161B22?style=flat-square&logo=plotly&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=white) ![Llama 3](https://img.shields.io/badge/Llama_3-161B22?style=flat-square&logo=meta&logoColor=white)
-
-![TOOLS](https://img.shields.io/badge/TOOLS-DA3633?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=flat-square)
+<table>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/LANGUAGES-DA3633?style=flat-square" alt="languages"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square" alt="SQL"/></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/FRAMEWORKS-DA3633?style=flat-square" alt="frameworks"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/DATA_%26_AI-DA3633?style=flat-square" alt="data and ai"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Plotly-161B22?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/> <img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/> <img src="https://img.shields.io/badge/Llama_3-161B22?style=flat-square&logo=meta&logoColor=white" alt="Llama 3"/></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/TOOLS-DA3633?style=flat-square" alt="tools"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=white" alt="Linux"/> <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square" alt="VS Code"/></td>
+  </tr>
+</table>
 
 </div>
 
