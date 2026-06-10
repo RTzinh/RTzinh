@@ -1,8 +1,8 @@
 <svg width="400" height="140" viewBox="0 0 400 140" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="399" height="139" rx="8" fill="rgba(255,255,255,0.015)" stroke="#30363d"/>
-  <rect x="0" y="10" width="3" height="120" rx="1.5" fill="#f85149"/>
-  <text x="20" y="33" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="16" font-weight="700" fill="#f85149">📊 Sales Analytics Dashboard</text>
-  <text x="382" y="30" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#6e7681" text-anchor="end">↗</text>
+  <rect x="0" y="10" width="3" height="120" rx="1.5" fill="#e5534b"/>
+  <text x="20" y="33" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="16" font-weight="700" fill="#e5534b">📊 Sales Analytics Dashboard</text>
+  <text x="382" y="30" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">↗</text>
   <text x="20" y="58" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" fill="#8b949e">AI-powered dashboard turning spreadsheets into</text>
   <text x="20" y="75" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" fill="#8b949e">KPIs and interactive charts.</text>
   <g font-family="'Segoe UI',Ubuntu,sans-serif" font-size="10">

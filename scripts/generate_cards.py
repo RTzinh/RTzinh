@@ -6,22 +6,17 @@ Anatomia e tokens: docs/superpowers/specs/2026-06-10-perfil-github-lamina-design
 """
 from pathlib import Path
 
+# Variante única com cores universais: legíveis sobre #0d1117 E sobre branco.
+# (prefers-color-scheme segue o tema do SO, não o do GitHub — variantes duplas
+# quebram quando os dois divergem.)
 THEMES = {
-    "dark": {
+    "universal": {
         "fill": "rgba(255,255,255,0.015)",
         "border": "#30363d",
-        "accent": "#f85149",
-        "title": "#f85149",
+        "accent": "#e5534b",
+        "title": "#e5534b",
         "text": "#8b949e",
-        "muted": "#6e7681",
-    },
-    "light": {
-        "fill": "rgba(0,0,0,0.012)",
-        "border": "#d0d7de",
-        "accent": "#da3633",
-        "title": "#cf222e",
-        "text": "#57606a",
-        "muted": "#8c959f",
+        "muted": "#8b949e",
     },
 }
 
@@ -88,7 +83,7 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     for p in PROJECTS:
         for theme_name, t in THEMES.items():
-            path = out_dir / f'{p["slug"]}-{theme_name}.svg'
+            path = out_dir / f'{p["slug"]}.svg'
             path.write_text(render_card(p, t), encoding="utf-8")
             print(f"wrote {path.relative_to(out_dir.parent.parent)}")
 

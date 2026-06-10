@@ -2,10 +2,7 @@
 
 <img src="assets/banner.gif" width="100%" alt="banner"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=F85149&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Data+%26+AI;Turning+data+into+decisions">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=CF222E&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Data+%26+AI;Turning+data+into+decisions" alt="Full-Stack Developer · Data & AI · Turning data into decisions"/>
-</picture>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=E5534B&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Data+%26+AI;Turning+data+into+decisions" alt="Full-Stack Developer · Data & AI · Turning data into decisions"/>
 
 # Ryan Tereciani
 
@@ -33,36 +30,24 @@ Full-stack developer focused on **data and AI** — I build web apps, BI dashboa
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/RTzinh/amazon_sales_analysis">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/sales-analytics-dark.svg">
-          <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/sales-analytics-light.svg" alt="Sales Analytics Dashboard"/>
-        </picture>
+        <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/sales-analytics.svg" alt="Sales Analytics Dashboard"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/RTzinh/investe-bem-brasil">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/investe-bem-brasil-dark.svg">
-          <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/investe-bem-brasil-light.svg" alt="Investe Bem Brasil"/>
-        </picture>
+        <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/investe-bem-brasil.svg" alt="Investe Bem Brasil"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/RTzinh/MedIATCC">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/media-dark.svg">
-          <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/media-light.svg" alt="MedIA"/>
-        </picture>
+        <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/media.svg" alt="MedIA"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/RTzinh/retailrocket-topn">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/retailrocket-topn-dark.svg">
-          <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/retailrocket-topn-light.svg" alt="RetailRocket Top-N"/>
-        </picture>
+        <img src="https://raw.githubusercontent.com/RTzinh/RTzinh/main/assets/cards/retailrocket-topn.svg" alt="RetailRocket Top-N"/>
       </a>
     </td>
   </tr>
@@ -101,19 +86,10 @@ Full-stack developer focused on **data and AI** — I build web apps, BI dashboa
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RTzinh&theme=transparent&hide_border=true&card_width=400&ring=F85149&fire=F85149&currStreakNum=E6EDF3&currStreakLabel=8B949E&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E">
-  <img src="https://streak-stats.demolab.com/?user=RTzinh&theme=transparent&hide_border=true&card_width=400&ring=DA3633&fire=DA3633&currStreakNum=24292F&currStreakLabel=57606A&sideNums=24292F&sideLabels=57606A&dates=57606A" alt="GitHub streak"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RTzinh&show_icons=true&hide_border=true&card_width=400&bg_color=00000000&title_color=F85149&icon_color=F85149&text_color=8B949E&ring_color=F85149">
-  <img src="https://github-readme-stats.vercel.app/api?username=RTzinh&show_icons=true&hide_border=true&card_width=400&bg_color=00000000&title_color=CF222E&icon_color=DA3633&text_color=57606A&ring_color=DA3633" alt="GitHub stats"/>
-</picture>
+<img src="https://streak-stats.demolab.com/?user=RTzinh&theme=transparent&hide_border=true&card_width=400&ring=E5534B&fire=E5534B&currStreakNum=E5534B&currStreakLabel=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RTzinh&show_icons=true&hide_border=true&card_width=400&bg_color=00000000&title_color=E5534B&icon_color=E5534B&text_color=8B949E&ring_color=E5534B" alt="GitHub stats"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RTzinh&bg_color=00000000&color=8B949E&line=F85149&point=E6EDF3&area=true&area_color=F85149&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RTzinh&bg_color=00000000&color=57606A&line=DA3633&point=24292F&area=true&area_color=DA3633&hide_border=true" alt="Contribution graph"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RTzinh&bg_color=00000000&color=8B949E&line=E5534B&point=E5534B&area=true&area_color=E5534B&hide_border=true" alt="Contribution graph"/>
 
 </div>
 

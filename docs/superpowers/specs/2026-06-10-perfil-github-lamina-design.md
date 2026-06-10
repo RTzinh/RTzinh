@@ -91,3 +91,10 @@ Links dos repositórios: `amazon_sales_analysis`, `investe-bem-brasil`, `MedIATC
 ## Verificação
 
 Após push: conferir `github.com/RTzinh` com tema dark e light (e largura mobile). Os SVGs dos cards podem ser pré-validados abrindo localmente no navegador antes do push.
+
+## Revisão v2 (2026-06-10, pós-publicação — feedback do usuário)
+
+1. **Variante única universal no lugar de `<picture>` dark/light.** Descoberta: `prefers-color-scheme` segue o tema do **SO/navegador**, não o tema configurado no GitHub. Com GitHub dark + Windows claro, o navegador servia as variantes light (texto escuro) sobre página escura — tudo ilegível. Solução: uma única variante com cores legíveis nos dois fundos — acento `#e5534b`, texto `#8b949e`, borda `#30363d`. Cards agora são `assets/cards/<slug>.svg` (4 arquivos, sem sufixo de tema); typing/streak/stats/graph com essas mesmas cores, sem `<picture>`.
+2. **Live Demo monocromático.** O badge vermelho do hero destoava — voltou a `#161B22` com logo branco, idêntico aos demais (vermelho fica nos rótulos do stack, acentos dos cards e stats).
+3. **Cards de projeto idênticos.** Removido o badge `▶ LIVE DEMO` sob o card do Sales Analytics, que quebrava a igualdade da grade. O demo continua acessível pelo badge do hero.
+4. **Tech Stack em tabela.** As linhas de badges centralizadas tinham espaçamento irregular; viraram tabela HTML com rótulos à direita e badges à esquerda.
